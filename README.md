@@ -37,32 +37,32 @@ File sẽ được phần tích gồm 2 giai đoạn, giai đoạn 1 là từ đ
 
 Sử dụng lumina trong ida pro để làm rõ tên hàm hơn.
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e5218297-b23b-47db-8125-ebbecf9ca66f/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%208.png)
 
 Tại hàm `main_main` sử dụng chuỗi [`wizardcult.flare-on.com`](http://wizardcult.flare-on.com/) làm domain để kết nối, và những hàm github_com_lrstanley_girc cho biết rằng sẽ kết nối đến server `IRC` 
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4c97709e-0d59-447c-89ae-5ff1df887e96/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%209.png)
 
 Sau khi thực thi hàm `main_main` sẽ đến hàm `main_main_func1`, tại đây thấy được chương trình sau khi kết nối vào IRC sẽ join vào channel `dungeon`  
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/08afeeef-c2ef-4987-aec1-342e47f93fc2/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2010.png)
 
 Sau khi thực hiện kết nối, chương trình sẽ thực thi hàm `mapassign` cùng với các tham số được gán trước đó
 (xem thêm về `mapassign`ở [https://x0r19x91.gitlab.io/reversing-golang/part-3/](https://x0r19x91.gitlab.io/reversing-golang/part-3/) )
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1ba992a7-3ac7-4d37-8dc6-9b1f521b001d/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2011.png)
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bbeafb37-60c6-49b6-8e08-0d043e5cc799/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2012.png)
 
 Tạo một struct làm type cho các biến tương tự như `v25` để có thể rõ ràng hơn
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a24eb059-185a-4aae-a9b9-cf767dcfdbf6/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2013.png)
 
 và sẽ thấy được có 2 hàm sử dụng: **ReadFile_Potion** và **Command_Potion**
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/82b15f7a-a5e3-4344-a906-2b4fab718af6/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2014.png)
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0cc992d-addf-462f-9478-078eb71aeea2/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2015.png)
 
 Từ đây tôi có thể tóm gọn được rằng, sau khi client tải xuống, cấp quyền và thực thi file `induct` thì chương trình sẽ thực hiện việc kết nối IRC đến server có domain là [`wizardcult.flare-on.com`](http://wizardcult.flare-on.com/) sau đó sẽ join vào channel `#dungeon` , để có thể thực hiện được việc debug (tôi sử dụng `remote linux debugger` của IDA) thì cần phải cài đặt môi trường cho nó:
 
@@ -76,33 +76,33 @@ Từ đây tôi có thể tóm gọn được rằng, sau khi client tải xuố
 - Gắn địa chỉ của domain vào ip của server trong file `/etc/hosts`
 - DEBUG.
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/03686ddb-b384-4a3a-87f3-f8801719979f/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2016.png)
 
 Từ hàm `main_main_func2` sẽ có kiểm tra user có tên `dung3onm4st3r13` có trong server không.
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cdbf7b35-399d-4162-b30c-71ad910297e0/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2017.png)
 
 nếu có thì sẽ trải qua 1 loạt instruction và để ý tại hàm `wizardcult_comms_ProcessDMMessage` , hàm này sẽ xử lý các tin nhắn mà `dung3onm4st3r13` gửi lên server.
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/80263784-a805-46ce-bd12-ec688932358f/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2018.png)
 
 ở trong hàm `wizardcult_comms_ProcessDMMessage` có hàm `strings_index` dùng để lấy vị trí xuất hiện của chuỗi được gán trong tin nhắn gửi đến, nếu <0 thì có nghĩa là chuỗi được gán không có trong tin nhắn gửi đến. Sau khi điều kiện đúng sẽ thực hiện một loạt instruction nào đó và cuối cùng là send tin nhắn đến server IRC.
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/35ad7ed6-57e8-4579-a218-72383896a781/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2019.png)
 
 Và ở dưới cũng tương tự như thế.
 
 Tại đoạn so sánh với chuỗi `you have learned how to create the` thì sẽ thấy sử dụng các chuỗi từ bảng `wizardcult_tables_Ingredients` để làm điều gì đó. Ngoài ra thì tại lúc này bên wireshark sẽ thầy IRC gửi rất nhiều như : "To brew it you must combine magnifying glass,.....". 
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/98764454-e05e-48b7-bac1-e3ae16e01c5f/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2020.png)
 
 Kết hợp với debug sẽ hiểu được rằng mỗi 2 từ được gửi đi kể từ sau "combine " chính là mỗi byte của binary data struct được sử dụng làm tham số truyền vào cho hàm `wizardcult_vm_LoadProgram`
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cdae25df-200b-41a3-a43c-5e7917906e59/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2021.png)
 
 Độ dài của bảng này là 0x100
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a41cb75d-c7b4-4375-9e18-6e2169b433a6/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2022.png)
 
 Nên sử dụng python script để dump table ra file json
 
@@ -152,34 +152,34 @@ with open("dump1.json", "w") as outfile:
 
 Hàm `runtime_mapaccess2_faststr` sẽ trả về con trỏ đến hàm tương ứng với khóa là v87 trong `map` (map đã được khởi tạo ở hàm `main_main_func1` bởi các hàm `runtime_mapassign_faststr` , xem thêm chi tiết ở [https://x0r19x91.gitlab.io/reversing-golang/part-3/](https://x0r19x91.gitlab.io/reversing-golang/part-3/))
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/604c15ca-c0ed-41ce-b7e4-1f9822dc9f81/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2023.png)
 
 Debug thì tôi thấy được key là "Potion of Acid Resistance."
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a21c2cb-ec64-488b-b5aa-0da48fac0567/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2024.png)
 
 Thì tương đương nó sẽ lấy con trỏ đến hàm `Command_Potion` .
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e25d7f92-ec2c-4b69-a30a-ec7036bbbf9f/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2025.png)
 
 Đặt breakpoint tại hàm `Command_Potion` 
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b4e1a176-04ef-4653-a097-91f69ccc5f87/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2026.png)
 
 Quay lại hàm `wizardcult_comms_ProcessDMMessage`, hàm `runtime_mapaccess1_faststr` tương tự như hàm `runtime_mapaccess2_faststr` .
 
 Hàm `wizardcult_vm_LoadProgram` sẽ bắt đầu load vm với binary data struct đã encode bởi GOB (v23)
 (xem thêm [https://www.youtube.com/watch?v=SE13kcjJ_X0](https://www.youtube.com/watch?v=SE13kcjJ_X0) ) được `dung3onm4st3r13` gửi đến.
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/25b3a51f-df6e-4ad7-9a95-dee1ab8ddbe0/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2027.png)
 
 Debug và dump sẽ được binay truyền vào (hoặc có thể sử dụng file json đã dump ở trên và nội dung mà `dung3onm4st3r13`  gửi đến để tạo ra được binary đó).
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de22e9de-ca97-4655-93da-446824d5ab63/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2028.png)
 
 Trong hàm `wizardcult_vm_LoadProgram` decrypt đoạn binary trên và tạo vm.
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/889e7a36-a9b9-4ca4-885b-c29db480d163/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2029.png)
 
 Sử dụng degob ([https://github.com/drosseau/degob](https://github.com/drosseau/degob)) để decrypt đoạn binary trên thì được :
 
@@ -298,7 +298,7 @@ Từ đây có thể hiểu được  `dung3onm4st3r13` là đối tượng đi�
 
 [replay.py](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6c56966f-afb2-4138-8770-4ad075b5c004/replay.py)
 
-[ingre2.txt](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/255cd10b-dfdc-4601-b736-cf45fefa7f4d/ingre2.txt)
+[ingre2.txt](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2030.png)
 
 Theo luồng tin nhắn trong wireshark thì tiếp theo là đến if với "you enter the dungeon" (có thể debug để chắc chắn điều này). Tại đoạn này sẽ load table như ở phía trên kia để làm điều gì đó
 
