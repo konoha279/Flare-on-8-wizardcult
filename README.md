@@ -664,3 +664,5 @@ Chạy file tôi thu được hình có flag:
 Done bài 10
 
 ![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2085.png)
+
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/final.png)
