@@ -337,9 +337,7 @@ Lúc này debug cho luồng chương trình chạy đến `wizardcult_potion_Com
 
 ![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2036.png)
 
-và chạy đến dòng 42, sẽ thấy ở stack sẽ đưa tất cả tên file trong folder vào stack
-
-![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2037.png)
+và chạy đến dòng 42, sẽ thấy ở stack sẽ đưa tất cả tên file trong folder `/mages_tower` vào stack
 
 theo dõi chương trình thì sẽ thầy hàm `wizardcult_vm__ptr_Cpu_Execute` , hàm này sẽ load vm và excute instruction bằng hàm `wizardcult_vm__ptr_Cpu_ExecuteInstruction` 
 
@@ -355,7 +353,7 @@ Lúc này kết hợp với dump3,json với những điều trên cùng với �
 
 ![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2041.png)
 
-Thì tính toán ra được 2 tên file là `cool_wizard_meme.png` và `induct`
+Thì tính toán ra được 2 tên file là `cool_wizard_meme.png` và `induct`. Lúc này tôi biết được trong folder `/mages_tower` có 2 file là `induct` và `cool_wizard_meme.png`
 
 ![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2042.png)
 
