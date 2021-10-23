@@ -1,0 +1,1538 @@
+[
+   {
+      "id": 0,
+      "offset": 7655778,
+      "length": 4,
+      "text": "bone"
+   },
+   {
+      "id": 1,
+      "offset": 7678977,
+      "length": 14,
+      "text": "undead eyeball"
+   },
+   {
+      "id": 2,
+      "offset": 7659024,
+      "length": 6,
+      "text": "spider"
+   },
+   {
+      "id": 3,
+      "offset": 7665840,
+      "length": 9,
+      "text": "fish tail"
+   },
+   {
+      "id": 4,
+      "offset": 7668517,
+      "length": 10,
+      "text": "adamantine"
+   },
+   {
+      "id": 5,
+      "offset": 7726964,
+      "length": 40,
+      "text": "tentacle of giant octopus or giant squid"
+   },
+   {
+      "id": 6,
+      "offset": 7655210,
+      "length": 3,
+      "text": "ice"
+   },
+   {
+      "id": 7,
+      "offset": 7655830,
+      "length": 4,
+      "text": "coal"
+   },
+   {
+      "id": 8,
+      "offset": 7671471,
+      "length": 11,
+      "text": "food morsel"
+   },
+   {
+      "id": 9,
+      "offset": 7682354,
+      "length": 16,
+      "text": "bitumen (a drop)"
+   },
+   {
+      "id": 10,
+      "offset": 7680540,
+      "length": 15,
+      "text": "giant slug bile"
+   },
+   {
+      "id": 11,
+      "offset": 7666038,
+      "length": 9,
+      "text": "jade dust"
+   },
+   {
+      "id": 12,
+      "offset": 7669317,
+      "length": 10,
+      "text": "rotten egg"
+   },
+   {
+      "id": 13,
+      "offset": 7676786,
+      "length": 13,
+      "text": "silver powder"
+   },
+   {
+      "id": 14,
+      "offset": 7714258,
+      "length": 33,
+      "text": "artistic representation of caster"
+   },
+   {
+      "id": 15,
+      "offset": 7685147,
+      "length": 17,
+      "text": "oils and unguents"
+   },
+   {
+      "id": 16,
+      "offset": 7704169,
+      "length": 27,
+      "text": "soil mixture in a small bag"
+   },
+   {
+      "id": 17,
+      "offset": 7686698,
+      "length": 18,
+      "text": "gem-encrusted bowl"
+   },
+   {
+      "id": 18,
+      "offset": 7669097,
+      "length": 10,
+      "text": "magic item"
+   },
+   {
+      "id": 19,
+      "offset": 7658730,
+      "length": 6,
+      "text": "makeup"
+   },
+   {
+      "id": 20,
+      "offset": 7676838,
+      "length": 13,
+      "text": "talcum powder"
+   },
+   {
+      "id": 21,
+      "offset": 7684382,
+      "length": 17,
+      "text": "black silk square"
+   },
+   {
+      "id": 22,
+      "offset": 7692632,
+      "length": 21,
+      "text": "licorice root shaving"
+   },
+   {
+      "id": 23,
+      "offset": 7657470,
+      "length": 5,
+      "text": "tears"
+   },
+   {
+      "id": 24,
+      "offset": 7656190,
+      "length": 4,
+      "text": "salt"
+   },
+   {
+      "id": 25,
+      "offset": 7655898,
+      "length": 4,
+      "text": "dirt"
+   },
+   {
+      "id": 26,
+      "offset": 7676773,
+      "length": 13,
+      "text": "silver mirror"
+   },
+   {
+      "id": 27,
+      "offset": 7689690,
+      "length": 19,
+      "text": "wire of fine silver"
+   },
+   {
+      "id": 28,
+      "offset": 7726564,
+      "length": 40,
+      "text": "parchment with holy word written upon it"
+   },
+   {
+      "id": 29,
+      "offset": 7657040,
+      "length": 5,
+      "text": "gauze"
+   },
+   {
+      "id": 30,
+      "offset": 7665480,
+      "length": 9,
+      "text": "bone dust"
+   },
+   {
+      "id": 31,
+      "offset": 7655918,
+      "length": 4,
+      "text": "dust"
+   },
+   {
+      "id": 32,
+      "offset": 7658880,
+      "length": 6,
+      "text": "quartz"
+   },
+   {
+      "id": 33,
+      "offset": 7666110,
+      "length": 9,
+      "text": "lodestone"
+   },
+   {
+      "id": 34,
+      "offset": 7659036,
+      "length": 6,
+      "text": "sponge"
+   },
+   {
+      "id": 35,
+      "offset": 7656178,
+      "length": 4,
+      "text": "rope"
+   },
+   {
+      "id": 36,
+      "offset": 7663697,
+      "length": 8,
+      "text": "shamrock"
+   },
+   {
+      "id": 37,
+      "offset": 7660684,
+      "length": 7,
+      "text": "firefly"
+   },
+   {
+      "id": 38,
+      "offset": 7656034,
+      "length": 4,
+      "text": "iron"
+   },
+   {
+      "id": 39,
+      "offset": 7656218,
+      "length": 4,
+      "text": "soot"
+   },
+   {
+      "id": 40,
+      "offset": 7671482,
+      "length": 11,
+      "text": "forked twig"
+   },
+   {
+      "id": 41,
+      "offset": 7684552,
+      "length": 17,
+      "text": "distilled spirits"
+   },
+   {
+      "id": 42,
+      "offset": 7660943,
+      "length": 7,
+      "text": "mercury"
+   },
+   {
+      "id": 43,
+      "offset": 7674302,
+      "length": 12,
+      "text": "opaque glass"
+   },
+   {
+      "id": 44,
+      "offset": 7694792,
+      "length": 22,
+      "text": "marked sticks or bones"
+   },
+   {
+      "id": 45,
+      "offset": 7655216,
+      "length": 3,
+      "text": "ink"
+   },
+   {
+      "id": 46,
+      "offset": 7657255,
+      "length": 5,
+      "text": "niter"
+   },
+   {
+      "id": 47,
+      "offset": 7655846,
+      "length": 4,
+      "text": "corn"
+   },
+   {
+      "id": 48,
+      "offset": 7668947,
+      "length": 10,
+      "text": "hot pepper"
+   },
+   {
+      "id": 49,
+      "offset": 7658844,
+      "length": 6,
+      "text": "pebble"
+   },
+   {
+      "id": 50,
+      "offset": 7657435,
+      "length": 5,
+      "text": "stone"
+   },
+   {
+      "id": 51,
+      "offset": 7663881,
+      "length": 8,
+      "text": "wychwood"
+   },
+   {
+      "id": 52,
+      "offset": 7715116,
+      "length": 33,
+      "text": "miniature hand sculpted from clay"
+   },
+   {
+      "id": 53,
+      "offset": 7656820,
+      "length": 5,
+      "text": "amber"
+   },
+   {
+      "id": 54,
+      "offset": 7665489,
+      "length": 9,
+      "text": "brimstone"
+   },
+   {
+      "id": 55,
+      "offset": 7683282,
+      "length": 16,
+      "text": "pickled tentacle"
+   },
+   {
+      "id": 56,
+      "offset": 7674122,
+      "length": 12,
+      "text": "jade circlet"
+   },
+   {
+      "id": 57,
+      "offset": 7728554,
+      "length": 41,
+      "text": "sacrificial offering appropriate to deity"
+   },
+   {
+      "id": 58,
+      "offset": 7684705,
+      "length": 17,
+      "text": "fur of bloodhound"
+   },
+   {
+      "id": 59,
+      "offset": 7674134,
+      "length": 12,
+      "text": "jeweled horn"
+   },
+   {
+      "id": 60,
+      "offset": 7656062,
+      "length": 4,
+      "text": "lime"
+   },
+   {
+      "id": 61,
+      "offset": 7728923,
+      "length": 41,
+      "text": "vessel to contain a medium-sized creature"
+   },
+   {
+      "id": 62,
+      "offset": 7665561,
+      "length": 9,
+      "text": "cloth wad"
+   },
+   {
+      "id": 63,
+      "offset": 7695386,
+      "length": 22,
+      "text": "stem of a thorny plant"
+   },
+   {
+      "id": 64,
+      "offset": 7657310,
+      "length": 5,
+      "text": "pitch"
+   },
+   {
+      "id": 65,
+      "offset": 7729382,
+      "length": 42,
+      "text": "chalks and inks infused with precious gems"
+   },
+   {
+      "id": 66,
+      "offset": 7659102,
+      "length": 6,
+      "text": "tallow"
+   },
+   {
+      "id": 67,
+      "offset": 7672010,
+      "length": 11,
+      "text": "silk square"
+   },
+   {
+      "id": 68,
+      "offset": 7656955,
+      "length": 5,
+      "text": "earth"
+   },
+   {
+      "id": 69,
+      "offset": 7685045,
+      "length": 17,
+      "text": "molasses (a drop)"
+   },
+   {
+      "id": 70,
+      "offset": 7663105,
+      "length": 8,
+      "text": "feldspar"
+   },
+   {
+      "id": 71,
+      "offset": 7657165,
+      "length": 5,
+      "text": "jewel"
+   },
+   {
+      "id": 72,
+      "offset": 7676526,
+      "length": 13,
+      "text": "mandrake root"
+   },
+   {
+      "id": 73,
+      "offset": 7657025,
+      "length": 5,
+      "text": "focus"
+   },
+   {
+      "id": 74,
+      "offset": 7660635,
+      "length": 7,
+      "text": "eyeball"
+   },
+   {
+      "id": 75,
+      "offset": 7669407,
+      "length": 10,
+      "text": "silver bar"
+   },
+   {
+      "id": 76,
+      "offset": 7655195,
+      "length": 3,
+      "text": "fur"
+   },
+   {
+      "id": 77,
+      "offset": 7673942,
+      "length": 12,
+      "text": "glass sliver"
+   },
+   {
+      "id": 78,
+      "offset": 7698770,
+      "length": 24,
+      "text": "ivory portal (miniature)"
+   },
+   {
+      "id": 79,
+      "offset": 7673726,
+      "length": 12,
+      "text": "crystal bead"
+   },
+   {
+      "id": 80,
+      "offset": 7655159,
+      "length": 3,
+      "text": "ash"
+   },
+   {
+      "id": 81,
+      "offset": 7656194,
+      "length": 4,
+      "text": "sand"
+   },
+   {
+      "id": 82,
+      "offset": 7678375,
+      "length": 14,
+      "text": "feather of owl"
+   },
+   {
+      "id": 83,
+      "offset": 7672186,
+      "length": 11,
+      "text": "tuft of fur"
+   },
+   {
+      "id": 84,
+      "offset": 7678515,
+      "length": 14,
+      "text": "ink lead-based"
+   },
+   {
+      "id": 85,
+      "offset": 7705166,
+      "length": 28,
+      "text": "feather from any bird's wing"
+   },
+   {
+      "id": 86,
+      "offset": 7666209,
+      "length": 9,
+      "text": "mistletoe"
+   },
+   {
+      "id": 87,
+      "offset": 7684399,
+      "length": 17,
+      "text": "chrysolite powder"
+   },
+   {
+      "id": 88,
+      "offset": 7656058,
+      "length": 4,
+      "text": "lead"
+   },
+   {
+      "id": 89,
+      "offset": 7689177,
+      "length": 19,
+      "text": "phosphorescent moss"
+   },
+   {
+      "id": 90,
+      "offset": 7656865,
+      "length": 5,
+      "text": "blood"
+   },
+   {
+      "id": 91,
+      "offset": 7658886,
+      "length": 6,
+      "text": "quiver"
+   },
+   {
+      "id": 92,
+      "offset": 7692758,
+      "length": 21,
+      "text": "ointment for the eyes"
+   },
+   {
+      "id": 93,
+      "offset": 7658400,
+      "length": 6,
+      "text": "butter"
+   },
+   {
+      "id": 94,
+      "offset": 7677007,
+      "length": 13,
+      "text": "wisp of smoke"
+   },
+   {
+      "id": 95,
+      "offset": 7683042,
+      "length": 16,
+      "text": "magnifying glass"
+   },
+   {
+      "id": 96,
+      "offset": 7660838,
+      "length": 7,
+      "text": "incense"
+   },
+   {
+      "id": 97,
+      "offset": 7665957,
+      "length": 9,
+      "text": "honeycomb"
+   },
+   {
+      "id": 98,
+      "offset": 7666785,
+      "length": 9,
+      "text": "spiderweb"
+   },
+   {
+      "id": 99,
+      "offset": 7672043,
+      "length": 11,
+      "text": "snaketongue"
+   },
+   {
+      "id": 100,
+      "offset": 7678487,
+      "length": 14,
+      "text": "humanoid blood"
+   },
+   {
+      "id": 101,
+      "offset": 7657100,
+      "length": 5,
+      "text": "herbs"
+   },
+   {
+      "id": 102,
+      "offset": 7659054,
+      "length": 6,
+      "text": "string"
+   },
+   {
+      "id": 103,
+      "offset": 7671900,
+      "length": 11,
+      "text": "rose petals"
+   },
+   {
+      "id": 104,
+      "offset": 7673930,
+      "length": 12,
+      "text": "gilded skull"
+   },
+   {
+      "id": 105,
+      "offset": 7657290,
+      "length": 5,
+      "text": "pearl"
+   },
+   {
+      "id": 106,
+      "offset": 7663481,
+      "length": 8,
+      "text": "obsidian"
+   },
+   {
+      "id": 107,
+      "offset": 7666839,
+      "length": 9,
+      "text": "sweet oil"
+   },
+   {
+      "id": 108,
+      "offset": 7739352,
+      "length": 50,
+      "text": "twig from a tree that has been struck by lightning"
+   },
+   {
+      "id": 109,
+      "offset": 7669227,
+      "length": 10,
+      "text": "phosphorus"
+   },
+   {
+      "id": 110,
+      "offset": 7692863,
+      "length": 21,
+      "text": "polished marble stone"
+   },
+   {
+      "id": 111,
+      "offset": 7682786,
+      "length": 16,
+      "text": "gold-inlaid vial"
+   },
+   {
+      "id": 112,
+      "offset": 7668887,
+      "length": 10,
+      "text": "gum arabic"
+   },
+   {
+      "id": 113,
+      "offset": 7656258,
+      "length": 4,
+      "text": "twig"
+   },
+   {
+      "id": 114,
+      "offset": 7669417,
+      "length": 10,
+      "text": "silver rod"
+   },
+   {
+      "id": 115,
+      "offset": 7668847,
+      "length": 10,
+      "text": "fur of bat"
+   },
+   {
+      "id": 116,
+      "offset": 7680735,
+      "length": 15,
+      "text": "mistletoe sprig"
+   },
+   {
+      "id": 117,
+      "offset": 7714225,
+      "length": 33,
+      "text": "an item distasteful to the target"
+   },
+   {
+      "id": 118,
+      "offset": 7666227,
+      "length": 9,
+      "text": "moonseeds"
+   },
+   {
+      "id": 119,
+      "offset": 7669057,
+      "length": 10,
+      "text": "iron blade"
+   },
+   {
+      "id": 120,
+      "offset": 7666425,
+      "length": 9,
+      "text": "rock chip"
+   },
+   {
+      "id": 121,
+      "offset": 7669497,
+      "length": 10,
+      "text": "sumac leaf"
+   },
+   {
+      "id": 122,
+      "offset": 7658598,
+      "length": 6,
+      "text": "fleece"
+   },
+   {
+      "id": 123,
+      "offset": 7663785,
+      "length": 8,
+      "text": "sunstone"
+   },
+   {
+      "id": 124,
+      "offset": 7660789,
+      "length": 7,
+      "text": "granite"
+   },
+   {
+      "id": 125,
+      "offset": 7717427,
+      "length": 34,
+      "text": "quill plucked from a sleeping bird"
+   },
+   {
+      "id": 126,
+      "offset": 7660572,
+      "length": 7,
+      "text": "diamond"
+   },
+   {
+      "id": 127,
+      "offset": 7671163,
+      "length": 11,
+      "text": "bell (tiny)"
+   },
+   {
+      "id": 128,
+      "offset": 7659114,
+      "length": 6,
+      "text": "thorns"
+   },
+   {
+      "id": 129,
+      "offset": 7674578,
+      "length": 12,
+      "text": "silver spoon"
+   },
+   {
+      "id": 130,
+      "offset": 7657465,
+      "length": 5,
+      "text": "tarts"
+   },
+   {
+      "id": 131,
+      "offset": 7680090,
+      "length": 15,
+      "text": "adder's stomach"
+   },
+   {
+      "id": 132,
+      "offset": 7656166,
+      "length": 4,
+      "text": "reed"
+   },
+   {
+      "id": 133,
+      "offset": 7694726,
+      "length": 22,
+      "text": "jewel-encrusted dagger"
+   },
+   {
+      "id": 134,
+      "offset": 7686338,
+      "length": 18,
+      "text": "caterpillar cocoon"
+   },
+   {
+      "id": 135,
+      "offset": 7694176,
+      "length": 22,
+      "text": "clay pot of grave dirt"
+   },
+   {
+      "id": 136,
+      "offset": 7676227,
+      "length": 13,
+      "text": "gem as powder"
+   },
+   {
+      "id": 137,
+      "offset": 7694704,
+      "length": 22,
+      "text": "iron filings or powder"
+   },
+   {
+      "id": 138,
+      "offset": 7657015,
+      "length": 5,
+      "text": "flesh"
+   },
+   {
+      "id": 139,
+      "offset": 7704331,
+      "length": 27,
+      "text": "tiny piece of target matter"
+   },
+   {
+      "id": 140,
+      "offset": 7668527,
+      "length": 10,
+      "text": "ammunition"
+   },
+   {
+      "id": 141,
+      "offset": 7678207,
+      "length": 14,
+      "text": "clay and water"
+   },
+   {
+      "id": 142,
+      "offset": 7659078,
+      "length": 6,
+      "text": "sulfur"
+   },
+   {
+      "id": 143,
+      "offset": 7710637,
+      "length": 31,
+      "text": "black pearl (as crushed powder)"
+   },
+   {
+      "id": 144,
+      "offset": 7678809,
+      "length": 14,
+      "text": "ruby (as dust)"
+   },
+   {
+      "id": 145,
+      "offset": 7673918,
+      "length": 12,
+      "text": "gilded acorn"
+   },
+   {
+      "id": 146,
+      "offset": 7674146,
+      "length": 12,
+      "text": "leather loop"
+   },
+   {
+      "id": 147,
+      "offset": 7656900,
+      "length": 5,
+      "text": "cloak"
+   },
+   {
+      "id": 148,
+      "offset": 7683490,
+      "length": 16,
+      "text": "spheres of glass"
+   },
+   {
+      "id": 149,
+      "offset": 7675993,
+      "length": 13,
+      "text": "cured leather"
+   },
+   {
+      "id": 150,
+      "offset": 7681020,
+      "length": 15,
+      "text": "snakeskin glove"
+   },
+   {
+      "id": 151,
+      "offset": 7693978,
+      "length": 22,
+      "text": "alum soaked in vinegar"
+   },
+   {
+      "id": 152,
+      "offset": 7655842,
+      "length": 4,
+      "text": "cork"
+   },
+   {
+      "id": 153,
+      "offset": 7678263,
+      "length": 14,
+      "text": "crystal sphere"
+   },
+   {
+      "id": 154,
+      "offset": 7657010,
+      "length": 5,
+      "text": "flame"
+   },
+   {
+      "id": 155,
+      "offset": 7665750,
+      "length": 9,
+      "text": "eggshells"
+   },
+   {
+      "id": 156,
+      "offset": 7672021,
+      "length": 11,
+      "text": "silver cage"
+   },
+   {
+      "id": 157,
+      "offset": 7674350,
+      "length": 12,
+      "text": "prayer wheel"
+   },
+   {
+      "id": 158,
+      "offset": 7673702,
+      "length": 12,
+      "text": "copper piece"
+   },
+   {
+      "id": 159,
+      "offset": 7724592,
+      "length": 39,
+      "text": "crystal vial of phosphorescent material"
+   },
+   {
+      "id": 160,
+      "offset": 7694286,
+      "length": 22,
+      "text": "feather of hummingbird"
+   },
+   {
+      "id": 161,
+      "offset": 7687130,
+      "length": 18,
+      "text": "red dragon's scale"
+   },
+   {
+      "id": 162,
+      "offset": 7682690,
+      "length": 16,
+      "text": "forked metal rod"
+   },
+   {
+      "id": 163,
+      "offset": 7656210,
+      "length": 4,
+      "text": "snow"
+   },
+   {
+      "id": 164,
+      "offset": 7663049,
+      "length": 8,
+      "text": "eggshell"
+   },
+   {
+      "id": 165,
+      "offset": 7724631,
+      "length": 39,
+      "text": "engraving of symbol of the outer planes"
+   },
+   {
+      "id": 166,
+      "offset": 7682386,
+      "length": 16,
+      "text": "black onyx stone"
+   },
+   {
+      "id": 167,
+      "offset": 7692842,
+      "length": 21,
+      "text": "petrified eye of newt"
+   },
+   {
+      "id": 168,
+      "offset": 7678865,
+      "length": 14,
+      "text": "silver whistle"
+   },
+   {
+      "id": 169,
+      "offset": 7662889,
+      "length": 8,
+      "text": "charcoal"
+   },
+   {
+      "id": 170,
+      "offset": 7671537,
+      "length": 11,
+      "text": "hand mirror"
+   },
+   {
+      "id": 171,
+      "offset": 7715050,
+      "length": 33,
+      "text": "lockbox of ornate stone and metal"
+   },
+   {
+      "id": 172,
+      "offset": 7665876,
+      "length": 9,
+      "text": "glass eye"
+   },
+   {
+      "id": 173,
+      "offset": 7681005,
+      "length": 15,
+      "text": "silver and iron"
+   },
+   {
+      "id": 174,
+      "offset": 7692464,
+      "length": 21,
+      "text": "glass or crystal bead"
+   },
+   {
+      "id": 175,
+      "offset": 7671911,
+      "length": 11,
+      "text": "rotten food"
+   },
+   {
+      "id": 176,
+      "offset": 7698338,
+      "length": 24,
+      "text": "clay model of a ziggurat"
+   },
+   {
+      "id": 177,
+      "offset": 7682610,
+      "length": 16,
+      "text": "diamond and opal"
+   },
+   {
+      "id": 178,
+      "offset": 7691407,
+      "length": 20,
+      "text": "skunk cabbage leaves"
+   },
+   {
+      "id": 179,
+      "offset": 7706720,
+      "length": 29,
+      "text": "ashes of mistletoe and spruce"
+   },
+   {
+      "id": 180,
+      "offset": 7669157,
+      "length": 10,
+      "text": "nut shells"
+   },
+   {
+      "id": 181,
+      "offset": 7691427,
+      "length": 20,
+      "text": "statue of the caster"
+   },
+   {
+      "id": 182,
+      "offset": 7680465,
+      "length": 15,
+      "text": "exquisite chest"
+   },
+   {
+      "id": 183,
+      "offset": 7655822,
+      "length": 4,
+      "text": "clay"
+   },
+   {
+      "id": 184,
+      "offset": 7659120,
+      "length": 6,
+      "text": "thread"
+   },
+   {
+      "id": 185,
+      "offset": 7671548,
+      "length": 11,
+      "text": "hen's heart"
+   },
+   {
+      "id": 186,
+      "offset": 7678585,
+      "length": 14,
+      "text": "knotted string"
+   },
+   {
+      "id": 187,
+      "offset": 7674434,
+      "length": 12,
+      "text": "rhubarb leaf"
+   },
+   {
+      "id": 188,
+      "offset": 7674530,
+      "length": 12,
+      "text": "sesame seeds"
+   },
+   {
+      "id": 189,
+      "offset": 7656182,
+      "length": 4,
+      "text": "ruby"
+   },
+   {
+      "id": 190,
+      "offset": 7694352,
+      "length": 22,
+      "text": "grasshopper's hind leg"
+   },
+   {
+      "id": 191,
+      "offset": 7674110,
+      "length": 12,
+      "text": "ivory strips"
+   },
+   {
+      "id": 192,
+      "offset": 7691207,
+      "length": 20,
+      "text": "paper or leaf funnel"
+   },
+   {
+      "id": 193,
+      "offset": 7663473,
+      "length": 8,
+      "text": "oak bark"
+   },
+   {
+      "id": 194,
+      "offset": 7692296,
+      "length": 21,
+      "text": "crystal or glass cone"
+   },
+   {
+      "id": 195,
+      "offset": 7657520,
+      "length": 5,
+      "text": "water"
+   },
+   {
+      "id": 196,
+      "offset": 7656810,
+      "length": 5,
+      "text": "agate"
+   },
+   {
+      "id": 197,
+      "offset": 7668917,
+      "length": 10,
+      "text": "holy water"
+   },
+   {
+      "id": 198,
+      "offset": 7666182,
+      "length": 9,
+      "text": "mica chip"
+   },
+   {
+      "id": 199,
+      "offset": 7659204,
+      "length": 6,
+      "text": "weapon"
+   },
+   {
+      "id": 200,
+      "offset": 7655826,
+      "length": 4,
+      "text": "club"
+   },
+   {
+      "id": 201,
+      "offset": 7668667,
+      "length": 10,
+      "text": "bull hairs"
+   },
+   {
+      "id": 202,
+      "offset": 7719120,
+      "length": 35,
+      "text": "reliquary containing a sacred relic"
+   },
+   {
+      "id": 203,
+      "offset": 7686428,
+      "length": 18,
+      "text": "crystal hemisphere"
+   },
+   {
+      "id": 204,
+      "offset": 7671559,
+      "length": 11,
+      "text": "holly berry"
+   },
+   {
+      "id": 205,
+      "offset": 7682626,
+      "length": 16,
+      "text": "divinatory tools"
+   },
+   {
+      "id": 206,
+      "offset": 7663889,
+      "length": 8,
+      "text": "yew leaf"
+   },
+   {
+      "id": 207,
+      "offset": 7692485,
+      "length": 21,
+      "text": "gum arabic hemisphere"
+   },
+   {
+      "id": 208,
+      "offset": 7692422,
+      "length": 21,
+      "text": "eyelash in gum arabic"
+   },
+   {
+      "id": 209,
+      "offset": 7676474,
+      "length": 13,
+      "text": "leather strap"
+   },
+   {
+      "id": 210,
+      "offset": 7672032,
+      "length": 11,
+      "text": "silver pins"
+   },
+   {
+      "id": 211,
+      "offset": 7678767,
+      "length": 14,
+      "text": "platinum sword"
+   },
+   {
+      "id": 212,
+      "offset": 7671636,
+      "length": 11,
+      "text": "legume seed"
+   },
+   {
+      "id": 213,
+      "offset": 7714621,
+      "length": 33,
+      "text": "detritus from the target creature"
+   },
+   {
+      "id": 214,
+      "offset": 7671240,
+      "length": 11,
+      "text": "copper wire"
+   },
+   {
+      "id": 215,
+      "offset": 7676253,
+      "length": 13,
+      "text": "gilded flower"
+   },
+   {
+      "id": 216,
+      "offset": 7657080,
+      "length": 5,
+      "text": "guano"
+   },
+   {
+      "id": 217,
+      "offset": 7714291,
+      "length": 33,
+      "text": "artistic representation of target"
+   },
+   {
+      "id": 218,
+      "offset": 7676201,
+      "length": 13,
+      "text": "flea (living)"
+   },
+   {
+      "id": 219,
+      "offset": 7660509,
+      "length": 7,
+      "text": "cricket"
+   },
+   {
+      "id": 220,
+      "offset": 7655252,
+      "length": 3,
+      "text": "oil"
+   },
+   {
+      "id": 221,
+      "offset": 7703845,
+      "length": 27,
+      "text": "parchment as a twisted loop"
+   },
+   {
+      "id": 222,
+      "offset": 7663145,
+      "length": 8,
+      "text": "glowworm"
+   },
+   {
+      "id": 223,
+      "offset": 7682802,
+      "length": 16,
+      "text": "golden reliquary"
+   },
+   {
+      "id": 224,
+      "offset": 7683554,
+      "length": 16,
+      "text": "umber hulk blood"
+   },
+   {
+      "id": 225,
+      "offset": 7660866,
+      "length": 7,
+      "text": "jacinth"
+   },
+   {
+      "id": 226,
+      "offset": 7671570,
+      "length": 11,
+      "text": "holy symbol"
+   },
+   {
+      "id": 227,
+      "offset": 7707039,
+      "length": 29,
+      "text": "graveyard dirt (just a pinch)"
+   },
+   {
+      "id": 228,
+      "offset": 7656302,
+      "length": 4,
+      "text": "wood"
+   },
+   {
+      "id": 229,
+      "offset": 7690667,
+      "length": 20,
+      "text": "fur wrapped in cloth"
+   },
+   {
+      "id": 230,
+      "offset": 7668927,
+      "length": 10,
+      "text": "honey drop"
+   },
+   {
+      "id": 231,
+      "offset": 7691227,
+      "length": 20,
+      "text": "platinum-inlaid vial"
+   },
+   {
+      "id": 232,
+      "offset": 7655183,
+      "length": 3,
+      "text": "fan"
+   },
+   {
+      "id": 233,
+      "offset": 7657445,
+      "length": 5,
+      "text": "straw"
+   },
+   {
+      "id": 234,
+      "offset": 7663657,
+      "length": 8,
+      "text": "sapphire"
+   },
+   {
+      "id": 235,
+      "offset": 7683522,
+      "length": 16,
+      "text": "sunburst pendant"
+   },
+   {
+      "id": 236,
+      "offset": 7671526,
+      "length": 11,
+      "text": "green plant"
+   },
+   {
+      "id": 237,
+      "offset": 7671515,
+      "length": 11,
+      "text": "golden wire"
+   },
+   {
+      "id": 238,
+      "offset": 7701567,
+      "length": 26,
+      "text": "clay pot of brackish water"
+   },
+   {
+      "id": 239,
+      "offset": 7678753,
+      "length": 14,
+      "text": "platinum rings"
+   },
+   {
+      "id": 240,
+      "offset": 7655156,
+      "length": 3,
+      "text": "air"
+   },
+   {
+      "id": 241,
+      "offset": 7675954,
+      "length": 13,
+      "text": "colored sand "
+   },
+   {
+      "id": 242,
+      "offset": 7714720,
+      "length": 33,
+      "text": "gem or other ornamental container"
+   },
+   {
+      "id": 243,
+      "offset": 7657455,
+      "length": 5,
+      "text": "sugar"
+   },
+   {
+      "id": 244,
+      "offset": 7684807,
+      "length": 17,
+      "text": "holy/unholy water"
+   },
+   {
+      "id": 245,
+      "offset": 7665894,
+      "length": 9,
+      "text": "gold dust"
+   },
+   {
+      "id": 246,
+      "offset": 7675980,
+      "length": 13,
+      "text": "copper pieces"
+   },
+   {
+      "id": 247,
+      "offset": 7694968,
+      "length": 22,
+      "text": "pork rind or other fat"
+   },
+   {
+      "id": 248,
+      "offset": 7674566,
+      "length": 12,
+      "text": "silver rings"
+   },
+   {
+      "id": 249,
+      "offset": 7698914,
+      "length": 24,
+      "text": "pickled octopus tentacle"
+   },
+   {
+      "id": 250,
+      "offset": 7655201,
+      "length": 3,
+      "text": "gem"
+   },
+   {
+      "id": 251,
+      "offset": 7673798,
+      "length": 12,
+      "text": "dried carrot"
+   },
+   {
+      "id": 252,
+      "offset": 7674206,
+      "length": 12,
+      "text": "melee weapon"
+   },
+   {
+      "id": 253,
+      "offset": 7660656,
+      "length": 7,
+      "text": "feather"
+   },
+   {
+      "id": 254,
+      "offset": 7666443,
+      "length": 9,
+      "text": "ruby vial"
+   },
+   {
+      "id": 255,
+      "offset": 7682978,
+      "length": 16,
+      "text": "kernels of grain"
+   }
+]

@@ -1,0 +1,2048 @@
+[
+   {
+      "id": 0,
+      "offset": 7677493,
+      "length": 14,
+      "text": "Eldritch Blast"
+   },
+   {
+      "id": 1,
+      "offset": 7664823,
+      "length": 9,
+      "text": "Mass Heal"
+   },
+   {
+      "id": 2,
+      "offset": 7661993,
+      "length": 8,
+      "text": "Fireball"
+   },
+   {
+      "id": 3,
+      "offset": 7681570,
+      "length": 16,
+      "text": "Dominate Monster"
+   },
+   {
+      "id": 4,
+      "offset": 7672778,
+      "length": 12,
+      "text": "Detect Magic"
+   },
+   {
+      "id": 5,
+      "offset": 7670877,
+      "length": 11,
+      "text": "Stone Shape"
+   },
+   {
+      "id": 6,
+      "offset": 7672718,
+      "length": 12,
+      "text": "Clairvoyance"
+   },
+   {
+      "id": 7,
+      "offset": 7654994,
+      "length": 3,
+      "text": "Aid"
+   },
+   {
+      "id": 8,
+      "offset": 7679505,
+      "length": 15,
+      "text": "Detect Thoughts"
+   },
+   {
+      "id": 9,
+      "offset": 7670822,
+      "length": 11,
+      "text": "Shapechange"
+   },
+   {
+      "id": 10,
+      "offset": 7670382,
+      "length": 11,
+      "text": "Fire Shield"
+   },
+   {
+      "id": 11,
+      "offset": 7686050,
+      "length": 18,
+      "text": "Pass without Trace"
+   },
+   {
+      "id": 12,
+      "offset": 7685870,
+      "length": 18,
+      "text": "Antipathy/Sympathy"
+   },
+   {
+      "id": 13,
+      "offset": 7670855,
+      "length": 11,
+      "text": "Sleet Storm"
+   },
+   {
+      "id": 14,
+      "offset": 7679520,
+      "length": 15,
+      "text": "Dominate Person"
+   },
+   {
+      "id": 15,
+      "offset": 7670954,
+      "length": 11,
+      "text": "Tree Stride"
+   },
+   {
+      "id": 16,
+      "offset": 7662361,
+      "length": 8,
+      "text": "Passwall"
+   },
+   {
+      "id": 17,
+      "offset": 7660075,
+      "length": 7,
+      "text": "Shatter"
+   },
+   {
+      "id": 18,
+      "offset": 7672910,
+      "length": 12,
+      "text": "Giant Insect"
+   },
+   {
+      "id": 19,
+      "offset": 7662425,
+      "length": 8,
+      "text": "Revivify"
+   },
+   {
+      "id": 20,
+      "offset": 7679400,
+      "length": 15,
+      "text": "Circle of Death"
+   },
+   {
+      "id": 21,
+      "offset": 7667567,
+      "length": 10,
+      "text": "Divination"
+   },
+   {
+      "id": 22,
+      "offset": 7689847,
+      "length": 20,
+      "text": "Comprehend Languages"
+   },
+   {
+      "id": 23,
+      "offset": 7670360,
+      "length": 11,
+      "text": "Faerie Fire"
+   },
+   {
+      "id": 24,
+      "offset": 7677899,
+      "length": 14,
+      "text": "True Polymorph"
+   },
+   {
+      "id": 25,
+      "offset": 7675746,
+      "length": 13,
+      "text": "Searing Smite"
+   },
+   {
+      "id": 26,
+      "offset": 7677451,
+      "length": 14,
+      "text": "Dimension Door"
+   },
+   {
+      "id": 27,
+      "offset": 7658190,
+      "length": 6,
+      "text": "Shield"
+   },
+   {
+      "id": 28,
+      "offset": 7677507,
+      "length": 14,
+      "text": "Enlarge/Reduce"
+   },
+   {
+      "id": 29,
+      "offset": 7679625,
+      "length": 15,
+      "text": "Illusory Script"
+   },
+   {
+      "id": 30,
+      "offset": 7668127,
+      "length": 10,
+      "text": "Resistance"
+   },
+   {
+      "id": 31,
+      "offset": 7667637,
+      "length": 10,
+      "text": "Earthquake"
+   },
+   {
+      "id": 32,
+      "offset": 7664400,
+      "length": 9,
+      "text": "Contagion"
+   },
+   {
+      "id": 33,
+      "offset": 7656555,
+      "length": 5,
+      "text": "Bless"
+   },
+   {
+      "id": 34,
+      "offset": 7668107,
+      "length": 10,
+      "text": "Raise Dead"
+   },
+   {
+      "id": 35,
+      "offset": 7662041,
+      "length": 8,
+      "text": "Guidance"
+   },
+   {
+      "id": 36,
+      "offset": 7687828,
+      "length": 19,
+      "text": "Expeditious Retreat"
+   },
+   {
+      "id": 37,
+      "offset": 7657914,
+      "length": 6,
+      "text": "Grease"
+   },
+   {
+      "id": 38,
+      "offset": 7659893,
+      "length": 7,
+      "text": "Message"
+   },
+   {
+      "id": 39,
+      "offset": 7681586,
+      "length": 16,
+      "text": "Elemental Weapon"
+   },
+   {
+      "id": 40,
+      "offset": 7655530,
+      "length": 4,
+      "text": "Fear"
+   },
+   {
+      "id": 41,
+      "offset": 7656575,
+      "length": 5,
+      "text": "Clone"
+   },
+   {
+      "id": 42,
+      "offset": 7677969,
+      "length": 14,
+      "text": "Wrathful Smite"
+   },
+   {
+      "id": 43,
+      "offset": 7683855,
+      "length": 17,
+      "text": "Astral Projection"
+   },
+   {
+      "id": 44,
+      "offset": 7677521,
+      "length": 14,
+      "text": "Flaming Sphere"
+   },
+   {
+      "id": 45,
+      "offset": 7675291,
+      "length": 13,
+      "text": "Disguise Self"
+   },
+   {
+      "id": 46,
+      "offset": 7655606,
+      "length": 4,
+      "text": "Maze"
+   },
+   {
+      "id": 47,
+      "offset": 7655670,
+      "length": 4,
+      "text": "Slow"
+   },
+   {
+      "id": 48,
+      "offset": 7664913,
+      "length": 9,
+      "text": "Polymorph"
+   },
+   {
+      "id": 49,
+      "offset": 7656790,
+      "length": 5,
+      "text": "Weird"
+   },
+   {
+      "id": 50,
+      "offset": 7679550,
+      "length": 15,
+      "text": "Finger of Death"
+   },
+   {
+      "id": 51,
+      "offset": 7693824,
+      "length": 22,
+      "text": "Protection from Energy"
+   },
+   {
+      "id": 52,
+      "offset": 7673150,
+      "length": 12,
+      "text": "Nondetection"
+   },
+   {
+      "id": 53,
+      "offset": 7683838,
+      "length": 17,
+      "text": "Animal Friendship"
+   },
+   {
+      "id": 54,
+      "offset": 7673366,
+      "length": 12,
+      "text": "Spike Growth"
+   },
+   {
+      "id": 55,
+      "offset": 7664616,
+      "length": 9,
+      "text": "Goodberry"
+   },
+   {
+      "id": 56,
+      "offset": 7675213,
+      "length": 13,
+      "text": "Calm Emotions"
+   },
+   {
+      "id": 57,
+      "offset": 7677297,
+      "length": 14,
+      "text": "Antilife Shell"
+   },
+   {
+      "id": 58,
+      "offset": 7672730,
+      "length": 12,
+      "text": "Cone of Cold"
+   },
+   {
+      "id": 59,
+      "offset": 7662089,
+      "length": 8,
+      "text": "Identify"
+   },
+   {
+      "id": 60,
+      "offset": 7679850,
+      "length": 15,
+      "text": "Power Word Stun"
+   },
+   {
+      "id": 61,
+      "offset": 7675252,
+      "length": 13,
+      "text": "Control Water"
+   },
+   {
+      "id": 62,
+      "offset": 7668267,
+      "length": 10,
+      "text": "Thorn Whip"
+   },
+   {
+      "id": 63,
+      "offset": 7679835,
+      "length": 15,
+      "text": "Power Word Kill"
+   },
+   {
+      "id": 64,
+      "offset": 7656560,
+      "length": 5,
+      "text": "Blink"
+   },
+   {
+      "id": 65,
+      "offset": 7679670,
+      "length": 15,
+      "text": "Locate Creature"
+   },
+   {
+      "id": 66,
+      "offset": 7659550,
+      "length": 7,
+      "text": "Command"
+   },
+   {
+      "id": 67,
+      "offset": 7670272,
+      "length": 11,
+      "text": "Contingency"
+   },
+   {
+      "id": 68,
+      "offset": 7677787,
+      "length": 14,
+      "text": "Prismatic Wall"
+   },
+   {
+      "id": 69,
+      "offset": 7667397,
+      "length": 10,
+      "text": "Blade Ward"
+   },
+   {
+      "id": 70,
+      "offset": 7660047,
+      "length": 7,
+      "text": "Scrying"
+   },
+   {
+      "id": 71,
+      "offset": 7677479,
+      "length": 14,
+      "text": "Dominate Beast"
+   },
+   {
+      "id": 72,
+      "offset": 7673318,
+      "length": 12,
+      "text": "Sacred Flame"
+   },
+   {
+      "id": 73,
+      "offset": 7681714,
+      "length": 16,
+      "text": "Guards and Wards"
+   },
+   {
+      "id": 74,
+      "offset": 7667317,
+      "length": 10,
+      "text": "Arcane Eye"
+   },
+   {
+      "id": 75,
+      "offset": 7675538,
+      "length": 13,
+      "text": "Mirage Arcane"
+   },
+   {
+      "id": 76,
+      "offset": 7670580,
+      "length": 11,
+      "text": "Magic Mouth"
+   },
+   {
+      "id": 77,
+      "offset": 7681698,
+      "length": 16,
+      "text": "Glyph of Warding"
+   },
+   {
+      "id": 78,
+      "offset": 7659683,
+      "length": 7,
+      "text": "Friends"
+   },
+   {
+      "id": 79,
+      "offset": 7660061,
+      "length": 7,
+      "text": "Sending"
+   },
+   {
+      "id": 80,
+      "offset": 7677885,
+      "length": 14,
+      "text": "Stinking Cloud"
+   },
+   {
+      "id": 81,
+      "offset": 7667477,
+      "length": 10,
+      "text": "Compulsion"
+   },
+   {
+      "id": 82,
+      "offset": 7677437,
+      "length": 14,
+      "text": "Dancing Lights"
+   },
+   {
+      "id": 83,
+      "offset": 7661905,
+      "length": 8,
+      "text": "Darkness"
+   },
+   {
+      "id": 84,
+      "offset": 7673018,
+      "length": 12,
+      "text": "Invisibility"
+   },
+   {
+      "id": 85,
+      "offset": 7679955,
+      "length": 15,
+      "text": "Spare the Dying"
+   },
+   {
+      "id": 86,
+      "offset": 7673414,
+      "length": 12,
+      "text": "Wall of Fire"
+   },
+   {
+      "id": 87,
+      "offset": 7670393,
+      "length": 11,
+      "text": "Flame Blade"
+   },
+   {
+      "id": 88,
+      "offset": 7672874,
+      "length": 12,
+      "text": "Feather Fall"
+   },
+   {
+      "id": 89,
+      "offset": 7673066,
+      "length": 12,
+      "text": "Magic Weapon"
+   },
+   {
+      "id": 90,
+      "offset": 7691981,
+      "length": 21,
+      "text": "Purify Food and Drink"
+   },
+   {
+      "id": 91,
+      "offset": 7682034,
+      "length": 16,
+      "text": "Spirit Guardians"
+   },
+   {
+      "id": 92,
+      "offset": 7668347,
+      "length": 10,
+      "text": "Witch Bolt"
+   },
+   {
+      "id": 93,
+      "offset": 7679340,
+      "length": 15,
+      "text": "Animate Objects"
+   },
+   {
+      "id": 94,
+      "offset": 7672898,
+      "length": 12,
+      "text": "Gaseous Form"
+   },
+   {
+      "id": 95,
+      "offset": 7677647,
+      "length": 14,
+      "text": "Lightning Bolt"
+   },
+   {
+      "id": 96,
+      "offset": 7667967,
+      "length": 10,
+      "text": "Move Earth"
+   },
+   {
+      "id": 97,
+      "offset": 7672790,
+      "length": 12,
+      "text": "Disintegrate"
+   },
+   {
+      "id": 98,
+      "offset": 7684042,
+      "length": 17,
+      "text": "Mass Healing Word"
+   },
+   {
+      "id": 99,
+      "offset": 7679700,
+      "length": 15,
+      "text": "Meld into Stone"
+   },
+   {
+      "id": 100,
+      "offset": 7677591,
+      "length": 14,
+      "text": "Hellish Rebuke"
+   },
+   {
+      "id": 101,
+      "offset": 7672634,
+      "length": 12,
+      "text": "Aura of Life"
+   },
+   {
+      "id": 102,
+      "offset": 7657758,
+      "length": 6,
+      "text": "Augury"
+   },
+   {
+      "id": 103,
+      "offset": 7683906,
+      "length": 17,
+      "text": "Conjure Elemental"
+   },
+   {
+      "id": 104,
+      "offset": 7673354,
+      "length": 12,
+      "text": "Spider Climb"
+   },
+   {
+      "id": 105,
+      "offset": 7670459,
+      "length": 11,
+      "text": "Hold Person"
+   },
+   {
+      "id": 106,
+      "offset": 7675616,
+      "length": 13,
+      "text": "Project Image"
+   },
+   {
+      "id": 107,
+      "offset": 7659746,
+      "length": 7,
+      "text": "Heroism"
+   },
+   {
+      "id": 108,
+      "offset": 7681538,
+      "length": 16,
+      "text": "Crown of Madness"
+   },
+   {
+      "id": 109,
+      "offset": 7673126,
+      "length": 12,
+      "text": "Mirror Image"
+   },
+   {
+      "id": 110,
+      "offset": 7679895,
+      "length": 15,
+      "text": "Ray of Sickness"
+   },
+   {
+      "id": 111,
+      "offset": 7655478,
+      "length": 4,
+      "text": "Bane"
+   },
+   {
+      "id": 112,
+      "offset": 7655690,
+      "length": 4,
+      "text": "Wish"
+   },
+   {
+      "id": 113,
+      "offset": 7687809,
+      "length": 19,
+      "text": "Contact Other Plane"
+   },
+   {
+      "id": 114,
+      "offset": 7672862,
+      "length": 12,
+      "text": "Etherealness"
+   },
+   {
+      "id": 115,
+      "offset": 7677353,
+      "length": 14,
+      "text": "Blinding Smite"
+   },
+   {
+      "id": 116,
+      "offset": 7679940,
+      "length": 15,
+      "text": "Shield of Faith"
+   },
+   {
+      "id": 117,
+      "offset": 7677927,
+      "length": 14,
+      "text": "Vampiric Touch"
+   },
+   {
+      "id": 118,
+      "offset": 7668227,
+      "length": 10,
+      "text": "Shillelagh"
+   },
+   {
+      "id": 119,
+      "offset": 7688037,
+      "length": 19,
+      "text": "Programmed Illusion"
+   },
+   {
+      "id": 120,
+      "offset": 7673270,
+      "length": 12,
+      "text": "Remove Curse"
+   },
+   {
+      "id": 121,
+      "offset": 7670591,
+      "length": 11,
+      "text": "Major Image"
+   },
+   {
+      "id": 122,
+      "offset": 7675434,
+      "length": 13,
+      "text": "Insect Plague"
+   },
+   {
+      "id": 123,
+      "offset": 7670250,
+      "length": 11,
+      "text": "Color Spray"
+   },
+   {
+      "id": 124,
+      "offset": 7679865,
+      "length": 15,
+      "text": "Prismatic Spray"
+   },
+   {
+      "id": 125,
+      "offset": 7672694,
+      "length": 12,
+      "text": "Charm Person"
+   },
+   {
+      "id": 126,
+      "offset": 7675096,
+      "length": 13,
+      "text": "Arms of Hadar"
+   },
+   {
+      "id": 127,
+      "offset": 7656585,
+      "length": 5,
+      "text": "Dream"
+   },
+   {
+      "id": 128,
+      "offset": 7685924,
+      "length": 18,
+      "text": "Dissonant Whispers"
+   },
+   {
+      "id": 129,
+      "offset": 7662609,
+      "length": 8,
+      "text": "Teleport"
+   },
+   {
+      "id": 130,
+      "offset": 7672802,
+      "length": 12,
+      "text": "Dispel Magic"
+   },
+   {
+      "id": 131,
+      "offset": 7670404,
+      "length": 11,
+      "text": "Forbiddance"
+   },
+   {
+      "id": 132,
+      "offset": 7667947,
+      "length": 10,
+      "text": "Misty Step"
+   },
+   {
+      "id": 133,
+      "offset": 7681458,
+      "length": 16,
+      "text": "Cloud of Daggers"
+   },
+   {
+      "id": 134,
+      "offset": 7675382,
+      "length": 13,
+      "text": "Gentle Repose"
+   },
+   {
+      "id": 135,
+      "offset": 7681874,
+      "length": 16,
+      "text": "Phantasmal Force"
+   },
+   {
+      "id": 136,
+      "offset": 7679415,
+      "length": 15,
+      "text": "Circle of Power"
+   },
+   {
+      "id": 137,
+      "offset": 7665048,
+      "length": 9,
+      "text": "Stoneskin"
+   },
+   {
+      "id": 138,
+      "offset": 7660152,
+      "length": 7,
+      "text": "Sunbeam"
+   },
+   {
+      "id": 139,
+      "offset": 7667707,
+      "length": 10,
+      "text": "Fire Storm"
+   },
+   {
+      "id": 140,
+      "offset": 7672934,
+      "length": 12,
+      "text": "Gust of Wind"
+   },
+   {
+      "id": 141,
+      "offset": 7667687,
+      "length": 10,
+      "text": "Find Steed"
+   },
+   {
+      "id": 142,
+      "offset": 7667587,
+      "length": 10,
+      "text": "Druidcraft"
+   },
+   {
+      "id": 143,
+      "offset": 7664382,
+      "length": 9,
+      "text": "Confusion"
+   },
+   {
+      "id": 144,
+      "offset": 7672646,
+      "length": 12,
+      "text": "Bestow Curse"
+   },
+   {
+      "id": 145,
+      "offset": 7677535,
+      "length": 14,
+      "text": "Flesh to Stone"
+   },
+   {
+      "id": 146,
+      "offset": 7670008,
+      "length": 11,
+      "text": "Arcane Gate"
+   },
+   {
+      "id": 147,
+      "offset": 7673258,
+      "length": 12,
+      "text": "Ray of Frost"
+   },
+   {
+      "id": 148,
+      "offset": 7689927,
+      "length": 20,
+      "text": "Greater Invisibility"
+   },
+   {
+      "id": 149,
+      "offset": 7668117,
+      "length": 10,
+      "text": "Regenerate"
+   },
+   {
+      "id": 150,
+      "offset": 7675148,
+      "length": 13,
+      "text": "Burning Hands"
+   },
+   {
+      "id": 151,
+      "offset": 7670987,
+      "length": 11,
+      "text": "Wall of Ice"
+   },
+   {
+      "id": 152,
+      "offset": 7670976,
+      "length": 11,
+      "text": "True Strike"
+   },
+   {
+      "id": 153,
+      "offset": 7660103,
+      "length": 7,
+      "text": "Silence"
+   },
+   {
+      "id": 154,
+      "offset": 7679370,
+      "length": 15,
+      "text": "Banishing Smite"
+   },
+   {
+      "id": 155,
+      "offset": 7687771,
+      "length": 19,
+      "text": "Commune with Nature"
+   },
+   {
+      "id": 156,
+      "offset": 7665111,
+      "length": 9,
+      "text": "Time Stop"
+   },
+   {
+      "id": 157,
+      "offset": 7683889,
+      "length": 17,
+      "text": "Conjure Celestial"
+   },
+   {
+      "id": 158,
+      "offset": 7664796,
+      "length": 9,
+      "text": "Magic Jar"
+   },
+   {
+      "id": 159,
+      "offset": 7670965,
+      "length": 11,
+      "text": "True Seeing"
+   },
+   {
+      "id": 160,
+      "offset": 7690187,
+      "length": 20,
+      "text": "Transport via Plants"
+   },
+   {
+      "id": 161,
+      "offset": 7690147,
+      "length": 20,
+      "text": "Teleportation Circle"
+   },
+   {
+      "id": 162,
+      "offset": 7682050,
+      "length": 16,
+      "text": "Spiritual Weapon"
+   },
+   {
+      "id": 163,
+      "offset": 7684144,
+      "length": 17,
+      "text": "Prayer of Healing"
+   },
+   {
+      "id": 164,
+      "offset": 7657770,
+      "length": 6,
+      "text": "Awaken"
+   },
+   {
+      "id": 165,
+      "offset": 7695813,
+      "length": 23,
+      "text": "Conjure Woodland Beings"
+   },
+   {
+      "id": 166,
+      "offset": 7664373,
+      "length": 9,
+      "text": "Cloudkill"
+   },
+   {
+      "id": 167,
+      "offset": 7672994,
+      "length": 12,
+      "text": "Imprisonment"
+   },
+   {
+      "id": 168,
+      "offset": 7677367,
+      "length": 14,
+      "text": "Branding Smite"
+   },
+   {
+      "id": 169,
+      "offset": 7688094,
+      "length": 19,
+      "text": "Ray of Enfeeblement"
+   },
+   {
+      "id": 170,
+      "offset": 7682002,
+      "length": 16,
+      "text": "See Invisibility"
+   },
+   {
+      "id": 171,
+      "offset": 7677955,
+      "length": 14,
+      "text": "Word of Recall"
+   },
+   {
+      "id": 172,
+      "offset": 7673330,
+      "length": 12,
+      "text": "Silent Image"
+   },
+   {
+      "id": 173,
+      "offset": 7659669,
+      "length": 7,
+      "text": "Eyebite"
+   },
+   {
+      "id": 174,
+      "offset": 7681522,
+      "length": 16,
+      "text": "Cordon of Arrows"
+   },
+   {
+      "id": 175,
+      "offset": 7698050,
+      "length": 24,
+      "text": "Globe of Invulnerability"
+   },
+   {
+      "id": 176,
+      "offset": 7665228,
+      "length": 9,
+      "text": "Wind Walk"
+   },
+   {
+      "id": 177,
+      "offset": 7679475,
+      "length": 15,
+      "text": "Continual Flame"
+   },
+   {
+      "id": 178,
+      "offset": 7679820,
+      "length": 15,
+      "text": "Power Word Heal"
+   },
+   {
+      "id": 179,
+      "offset": 7655132,
+      "length": 3,
+      "text": "Web"
+   },
+   {
+      "id": 180,
+      "offset": 7693846,
+      "length": 22,
+      "text": "Protection from Poison"
+   },
+   {
+      "id": 181,
+      "offset": 7675395,
+      "length": 13,
+      "text": "Grasping Vine"
+   },
+   {
+      "id": 182,
+      "offset": 7670910,
+      "length": 11,
+      "text": "Telekinesis"
+   },
+   {
+      "id": 183,
+      "offset": 7667797,
+      "length": 10,
+      "text": "Heat Metal"
+   },
+   {
+      "id": 184,
+      "offset": 7655554,
+      "length": 4,
+      "text": "Harm"
+   },
+   {
+      "id": 185,
+      "offset": 7679355,
+      "length": 15,
+      "text": "Antimagic Field"
+   },
+   {
+      "id": 186,
+      "offset": 7655578,
+      "length": 4,
+      "text": "Jump"
+   },
+   {
+      "id": 187,
+      "offset": 7687885,
+      "length": 19,
+      "text": "Greater Restoration"
+   },
+   {
+      "id": 188,
+      "offset": 7679385,
+      "length": 15,
+      "text": "Chain Lightning"
+   },
+   {
+      "id": 189,
+      "offset": 7656645,
+      "length": 5,
+      "text": "Knock"
+   },
+   {
+      "id": 190,
+      "offset": 7675135,
+      "length": 13,
+      "text": "Blade Barrier"
+   },
+   {
+      "id": 191,
+      "offset": 7675733,
+      "length": 13,
+      "text": "Scorching Ray"
+   },
+   {
+      "id": 192,
+      "offset": 7675811,
+      "length": 13,
+      "text": "Zone of Truth"
+   },
+   {
+      "id": 193,
+      "offset": 7662249,
+      "length": 8,
+      "text": "Moonbeam"
+   },
+   {
+      "id": 194,
+      "offset": 7656655,
+      "length": 5,
+      "text": "Light"
+   },
+   {
+      "id": 195,
+      "offset": 7673054,
+      "length": 12,
+      "text": "Magic Circle"
+   },
+   {
+      "id": 196,
+      "offset": 7677577,
+      "length": 14,
+      "text": "Hail of Thorns"
+   },
+   {
+      "id": 197,
+      "offset": 7655558,
+      "length": 4,
+      "text": "Heal"
+   },
+   {
+      "id": 198,
+      "offset": 7655486,
+      "length": 4,
+      "text": "Blur"
+   },
+   {
+      "id": 199,
+      "offset": 7680000,
+      "length": 15,
+      "text": "Water Breathing"
+   },
+   {
+      "id": 200,
+      "offset": 7670283,
+      "length": 11,
+      "text": "Cure Wounds"
+   },
+   {
+      "id": 201,
+      "offset": 7679535,
+      "length": 15,
+      "text": "Enhance Ability"
+   },
+   {
+      "id": 202,
+      "offset": 7668257,
+      "length": 10,
+      "text": "Suggestion"
+   },
+   {
+      "id": 203,
+      "offset": 7668327,
+      "length": 10,
+      "text": "Water Walk"
+   },
+   {
+      "id": 204,
+      "offset": 7679460,
+      "length": 15,
+      "text": "Conjure Barrage"
+   },
+   {
+      "id": 205,
+      "offset": 7670019,
+      "length": 11,
+      "text": "Arcane Lock"
+   },
+   {
+      "id": 206,
+      "offset": 7679925,
+      "length": 15,
+      "text": "Reverse Gravity"
+   },
+   {
+      "id": 207,
+      "offset": 7670712,
+      "length": 11,
+      "text": "Planar Ally"
+   },
+   {
+      "id": 208,
+      "offset": 7679685,
+      "length": 15,
+      "text": "Mass Suggestion"
+   },
+   {
+      "id": 209,
+      "offset": 7667657,
+      "length": 10,
+      "text": "False Life"
+   },
+   {
+      "id": 210,
+      "offset": 7670569,
+      "length": 11,
+      "text": "Longstrider"
+   },
+   {
+      "id": 211,
+      "offset": 7689867,
+      "length": 20,
+      "text": "Detect Evil and Good"
+   },
+   {
+      "id": 212,
+      "offset": 7672922,
+      "length": 12,
+      "text": "Guiding Bolt"
+   },
+   {
+      "id": 213,
+      "offset": 7662017,
+      "length": 8,
+      "text": "Glibness"
+   },
+   {
+      "id": 214,
+      "offset": 7679970,
+      "length": 15,
+      "text": "Speak with Dead"
+   },
+   {
+      "id": 215,
+      "offset": 7677381,
+      "length": 14,
+      "text": "Call Lightning"
+   },
+   {
+      "id": 216,
+      "offset": 7667537,
+      "length": 10,
+      "text": "Death Ward"
+   },
+   {
+      "id": 217,
+      "offset": 7675265,
+      "length": 13,
+      "text": "Create Undead"
+   },
+   {
+      "id": 218,
+      "offset": 7677339,
+      "length": 14,
+      "text": "Beacon of Hope"
+   },
+   {
+      "id": 219,
+      "offset": 7667297,
+      "length": 10,
+      "text": "Alter Self"
+   },
+   {
+      "id": 220,
+      "offset": 7669986,
+      "length": 11,
+      "text": "Acid Splash"
+   },
+   {
+      "id": 221,
+      "offset": 7675590,
+      "length": 13,
+      "text": "Phantom Steed"
+   },
+   {
+      "id": 222,
+      "offset": 7677773,
+      "length": 14,
+      "text": "Planar Binding"
+   },
+   {
+      "id": 223,
+      "offset": 7681890,
+      "length": 16,
+      "text": "Prestidigitation"
+   },
+   {
+      "id": 224,
+      "offset": 7672610,
+      "length": 12,
+      "text": "Animate Dead"
+   },
+   {
+      "id": 225,
+      "offset": 7667937,
+      "length": 10,
+      "text": "Mind Blank"
+   },
+   {
+      "id": 226,
+      "offset": 7656760,
+      "length": 5,
+      "text": "Sleep"
+   },
+   {
+      "id": 227,
+      "offset": 7672814,
+      "length": 12,
+      "text": "Divine Favor"
+   },
+   {
+      "id": 228,
+      "offset": 7665084,
+      "length": 9,
+      "text": "Telepathy"
+   },
+   {
+      "id": 229,
+      "offset": 7679985,
+      "length": 15,
+      "text": "Vicious Mockery"
+   },
+   {
+      "id": 230,
+      "offset": 7657788,
+      "length": 6,
+      "text": "Blight"
+   },
+   {
+      "id": 231,
+      "offset": 7661721,
+      "length": 8,
+      "text": "Barkskin"
+   },
+   {
+      "id": 232,
+      "offset": 7672766,
+      "length": 12,
+      "text": "Counterspell"
+   },
+   {
+      "id": 233,
+      "offset": 7670261,
+      "length": 11,
+      "text": "Conjure Fey"
+   },
+   {
+      "id": 234,
+      "offset": 7667697,
+      "length": 10,
+      "text": "Find Traps"
+   },
+   {
+      "id": 235,
+      "offset": 7675083,
+      "length": 13,
+      "text": "Animal Shapes"
+   },
+   {
+      "id": 236,
+      "offset": 7684229,
+      "length": 17,
+      "text": "Speak with Plants"
+   },
+   {
+      "id": 237,
+      "offset": 7684280,
+      "length": 17,
+      "text": "True Resurrection"
+   },
+   {
+      "id": 238,
+      "offset": 7673426,
+      "length": 12,
+      "text": "Warding Bond"
+   },
+   {
+      "id": 239,
+      "offset": 7672886,
+      "length": 12,
+      "text": "Flame Strike"
+   },
+   {
+      "id": 240,
+      "offset": 7672946,
+      "length": 12,
+      "text": "Healing Word"
+   },
+   {
+      "id": 241,
+      "offset": 7677941,
+      "length": 14,
+      "text": "Wall of Thorns"
+   },
+   {
+      "id": 242,
+      "offset": 7665237,
+      "length": 9,
+      "text": "Wind Wall"
+   },
+   {
+      "id": 243,
+      "offset": 7660054,
+      "length": 7,
+      "text": "Seeming"
+   },
+   {
+      "id": 244,
+      "offset": 7670206,
+      "length": 11,
+      "text": "Chill Touch"
+   },
+   {
+      "id": 245,
+      "offset": 7686014,
+      "length": 18,
+      "text": "Lesser Restoration"
+   },
+   {
+      "id": 246,
+      "offset": 7683974,
+      "length": 17,
+      "text": "Guardian of Faith"
+   },
+   {
+      "id": 247,
+      "offset": 7673102,
+      "length": 12,
+      "text": "Meteor Swarm"
+   },
+   {
+      "id": 248,
+      "offset": 7677871,
+      "length": 14,
+      "text": "Shocking Grasp"
+   },
+   {
+      "id": 249,
+      "offset": 7659557,
+      "length": 7,
+      "text": "Commune"
+   },
+   {
+      "id": 250,
+      "offset": 7681554,
+      "length": 16,
+      "text": "Destructive Wave"
+   },
+   {
+      "id": 251,
+      "offset": 7682066,
+      "length": 16,
+      "text": "Staggering Smite"
+   },
+   {
+      "id": 252,
+      "offset": 7695836,
+      "length": 23,
+      "text": "Create or Destroy Water"
+   },
+   {
+      "id": 253,
+      "offset": 7662561,
+      "length": 8,
+      "text": "Sunburst"
+   },
+   {
+      "id": 254,
+      "offset": 7664589,
+      "length": 9,
+      "text": "Forcecage"
+   },
+   {
+      "id": 255,
+      "offset": 7660194,
+      "length": 7,
+      "text": "Tongues"
+   },
+   {
+      "id": 256,
+      "offset": 7670536,
+      "length": 11,
+      "text": "Legend Lore"
+   },
+   {
+      "id": 257,
+      "offset": 7675343,
+      "length": 13,
+      "text": "Find Familiar"
+   },
+   {
+      "id": 258,
+      "offset": 7670921,
+      "length": 11,
+      "text": "Thaumaturgy"
+   },
+   {
+      "id": 259,
+      "offset": 7681762,
+      "length": 16,
+      "text": "Incendiary Cloud"
+   },
+   {
+      "id": 260,
+      "offset": 7686176,
+      "length": 18,
+      "text": "Storm of Vengeance"
+   },
+   {
+      "id": 261,
+      "offset": 7664661,
+      "length": 9,
+      "text": "Holy Aura"
+   },
+   {
+      "id": 262,
+      "offset": 7662193,
+      "length": 8,
+      "text": "Levitate"
+   },
+   {
+      "id": 263,
+      "offset": 7677619,
+      "length": 14,
+      "text": "Inflict Wounds"
+   },
+   {
+      "id": 264,
+      "offset": 7677395,
+      "length": 14,
+      "text": "Compelled Duel"
+   },
+   {
+      "id": 265,
+      "offset": 7656625,
+      "length": 5,
+      "text": "Haste"
+   },
+   {
+      "id": 266,
+      "offset": 7673282,
+      "length": 12,
+      "text": "Resurrection"
+   },
+   {
+      "id": 267,
+      "offset": 7670371,
+      "length": 11,
+      "text": "Feign Death"
+   },
+   {
+      "id": 268,
+      "offset": 7693670,
+      "length": 22,
+      "text": "Delayed Blast Fireball"
+   },
+   {
+      "id": 269,
+      "offset": 7681410,
+      "length": 16,
+      "text": "Armor of Agathys"
+   },
+   {
+      "id": 270,
+      "offset": 7670756,
+      "length": 11,
+      "text": "Reincarnate"
+   },
+   {
+      "id": 271,
+      "offset": 7682098,
+      "length": 16,
+      "text": "Thunderous Smite"
+   },
+   {
+      "id": 272,
+      "offset": 7706488,
+      "length": 29,
+      "text": "Protection from Evil and Good"
+   },
+   {
+      "id": 273,
+      "offset": 7655036,
+      "length": 3,
+      "text": "Hex"
+   },
+   {
+      "id": 274,
+      "offset": 7679655,
+      "length": 15,
+      "text": "Lightning Arrow"
+   },
+   {
+      "id": 275,
+      "offset": 7675356,
+      "length": 13,
+      "text": "Find the Path"
+   },
+   {
+      "id": 276,
+      "offset": 7675551,
+      "length": 13,
+      "text": "Modify Memory"
+   },
+   {
+      "id": 277,
+      "offset": 7668237,
+      "length": 10,
+      "text": "Simulacrum"
+   },
+   {
+      "id": 278,
+      "offset": 7667907,
+      "length": 10,
+      "text": "Mage Armor"
+   },
+   {
+      "id": 279,
+      "offset": 7664445,
+      "length": 9,
+      "text": "Demiplane"
+   },
+   {
+      "id": 280,
+      "offset": 7679595,
+      "length": 15,
+      "text": "Hunger of Hadar"
+   },
+   {
+      "id": 281,
+      "offset": 7660215,
+      "length": 7,
+      "text": "Tsunami"
+   },
+   {
+      "id": 282,
+      "offset": 7686158,
+      "length": 18,
+      "text": "Speak with Animals"
+   },
+   {
+      "id": 283,
+      "offset": 7675603,
+      "length": 13,
+      "text": "Produce Flame"
+   },
+   {
+      "id": 284,
+      "offset": 7681394,
+      "length": 16,
+      "text": "Animal Messenger"
+   },
+   {
+      "id": 285,
+      "offset": 7681730,
+      "length": 16,
+      "text": "Hypnotic Pattern"
+   },
+   {
+      "id": 286,
+      "offset": 7659886,
+      "length": 7,
+      "text": "Mending"
+   },
+   {
+      "id": 287,
+      "offset": 7667527,
+      "length": 10,
+      "text": "Darkvision"
+   },
+   {
+      "id": 288,
+      "offset": 7655542,
+      "length": 4,
+      "text": "Gate"
+   },
+   {
+      "id": 289,
+      "offset": 7687847,
+      "length": 19,
+      "text": "Freedom of Movement"
+   },
+   {
+      "id": 290,
+      "offset": 7673210,
+      "length": 12,
+      "text": "Plant Growth"
+   },
+   {
+      "id": 291,
+      "offset": 7667357,
+      "length": 10,
+      "text": "Banishment"
+   },
+   {
+      "id": 292,
+      "offset": 7664553,
+      "length": 9,
+      "text": "Fire Bolt"
+   },
+   {
+      "id": 293,
+      "offset": 7681426,
+      "length": 16,
+      "text": "Aura of Vitality"
+   },
+   {
+      "id": 294,
+      "offset": 7675798,
+      "length": 13,
+      "text": "Wall of Stone"
+   },
+   {
+      "id": 295,
+      "offset": 7675486,
+      "length": 13,
+      "text": "Magic Missile"
+   },
+   {
+      "id": 296,
+      "offset": 7655021,
+      "length": 3,
+      "text": "Fly"
+   },
+   {
+      "id": 297,
+      "offset": 7679445,
+      "length": 15,
+      "text": "Conjure Animals"
+   },
+   {
+      "id": 298,
+      "offset": 7664562,
+      "length": 9,
+      "text": "Fog Cloud"
+   },
+   {
+      "id": 299,
+      "offset": 7665003,
+      "length": 9,
+      "text": "Sequester"
+   },
+   {
+      "id": 300,
+      "offset": 7699447,
+      "length": 25,
+      "text": "Detect Poison and Disease"
+   },
+   {
+      "id": 301,
+      "offset": 7677311,
+      "length": 14,
+      "text": "Aura of Purity"
+   },
+   {
+      "id": 302,
+      "offset": 7661953,
+      "length": 8,
+      "text": "Enthrall"
+   },
+   {
+      "id": 303,
+      "offset": 7670129,
+      "length": 11,
+      "text": "Beast Sense"
+   },
+   {
+      "id": 304,
+      "offset": 7681602,
+      "length": 16,
+      "text": "Ensnaring Strike"
+   },
+   {
+      "id": 305,
+      "offset": 7685888,
+      "length": 18,
+      "text": "Blindness/Deafness"
+   },
+   {
+      "id": 306,
+      "offset": 7664508,
+      "length": 9,
+      "text": "Fabricate"
+   },
+   {
+      "id": 307,
+      "offset": 7664598,
+      "length": 9,
+      "text": "Foresight"
+   },
+   {
+      "id": 308,
+      "offset": 7677409,
+      "length": 14,
+      "text": "Conjure Volley"
+   },
+   {
+      "id": 309,
+      "offset": 7658220,
+      "length": 6,
+      "text": "Symbol"
+   },
+   {
+      "id": 310,
+      "offset": 7679490,
+      "length": 15,
+      "text": "Control Weather"
+   },
+   {
+      "id": 311,
+      "offset": 7656530,
+      "length": 5,
+      "text": "Alarm"
+   },
+   {
+      "id": 312,
+      "offset": 7689887,
+      "length": 20,
+      "text": "Dispel Evil and Good"
+   },
+   {
+      "id": 313,
+      "offset": 7659900,
+      "length": 7,
+      "text": "Mislead"
+   },
+   {
+      "id": 314,
+      "offset": 7691834,
+      "length": 21,
+      "text": "Create Food and Water"
+   },
+   {
+      "id": 315,
+      "offset": 7675460,
+      "length": 13,
+      "text": "Locate Object"
+   },
+   {
+      "id": 316,
+      "offset": 7675226,
+      "length": 13,
+      "text": "Chromatic Orb"
+   },
+   {
+      "id": 317,
+      "offset": 7661945,
+      "length": 8,
+      "text": "Entangle"
+   },
+   {
+      "id": 318,
+      "offset": 7655546,
+      "length": 4,
+      "text": "Geas"
+   },
+   {
+      "id": 319,
+      "offset": 7698074,
+      "length": 24,
+      "text": "Locate Animals or Plants"
+   },
+   {
+      "id": 320,
+      "offset": 7668147,
+      "length": 10,
+      "text": "Rope Trick"
+   },
+   {
+      "id": 321,
+      "offset": 7672958,
+      "length": 12,
+      "text": "Hold Monster"
+   },
+   {
+      "id": 322,
+      "offset": 7673222,
+      "length": 12,
+      "text": "Poison Spray"
+   },
+   {
+      "id": 323,
+      "offset": 7664967,
+      "length": 9,
+      "text": "Sanctuary"
+   },
+   {
+      "id": 324,
+      "offset": 7673378,
+      "length": 12,
+      "text": "Swift Quiver"
+   },
+   {
+      "id": 325,
+      "offset": 7664787,
+      "length": 9,
+      "text": "Mage Hand"
+   },
+   {
+      "id": 326,
+      "offset": 7664679,
+      "length": 9,
+      "text": "Ice Storm"
+   },
+   {
+      "id": 327,
+      "offset": 7670723,
+      "length": 11,
+      "text": "Plane Shift"
+   },
+   {
+      "id": 328,
+      "offset": 7677703,
+      "length": 14,
+      "text": "Minor Illusion"
+   },
+   {
+      "id": 329,
+      "offset": 7670305,
+      "length": 11,
+      "text": "Divine Word"
+   },
+   {
+      "id": 330,
+      "offset": 7684127,
+      "length": 17,
+      "text": "Phantasmal Killer"
+   },
+   {
+      "id": 331,
+      "offset": 7661849,
+      "length": 8,
+      "text": "Creation"
+   },
+   {
+      "id": 332,
+      "offset": 7675785,
+      "length": 13,
+      "text": "Wall of Force"
+   },
+   {
+      "id": 333,
+      "offset": 7698002,
+      "length": 24,
+      "text": "Conjure Minor Elementals"
+   },
+   {
+      "id": 334,
+      "offset": 7681794,
+      "length": 16,
+      "text": "Mass Cure Wounds"
+   },
+   {
+      "id": 335,
+      "offset": 7691876,
+      "length": 21,
+      "text": "Hallucinatory Terrain"
+   },
+   {
+      "id": 336,
+      "offset": 7667667,
+      "length": 10,
+      "text": "Feeblemind"
+   },
+   {
+      "id": 337,
+      "offset": 7677913,
+      "length": 14,
+      "text": "Unseen Servant"
+   },
+   {
+      "id": 338,
+      "offset": 7661913,
+      "length": 8,
+      "text": "Daylight"
+   },
+   {
+      "id": 339,
+      "offset": 7670932,
+      "length": 11,
+      "text": "Thunderwave"
+   },
+   {
+      "id": 340,
+      "offset": 7657920,
+      "length": 6,
+      "text": "Hallow"
+   }
+]

@@ -149,7 +149,7 @@ with open("dump1.json", "w") as outfile:
 
 Được file dump.json:
 
-[dump1.json](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8cf1bccc-5f95-4366-ba14-bbf97c3d0d12/dump1.json)
+[dump1.json](https://github.com/konoha279/Flare-on-8/blob/main/other/dump1.json)
 
 Hàm `runtime_mapaccess2_faststr` sẽ trả về con trỏ đến hàm tương ứng với khóa là v87 trong `map` (map đã được khởi tạo ở hàm `main_main_func1` bởi các hàm `runtime_mapassign_faststr` , xem thêm chi tiết ở [https://x0r19x91.gitlab.io/reversing-golang/part-3/](https://x0r19x91.gitlab.io/reversing-golang/part-3/))
 
@@ -297,9 +297,9 @@ Sau khi load VM xong chương trình sẽ chạy một loạt instruction sau đ
 
 Từ đây có thể hiểu được  `dung3onm4st3r13` là đối tượng điều khiển luồng chạy của chương trình bằng tin nhắn gửi đến. Vì thế có con bot mang danh `dung3onm4st3r13` (made by @Hoàng Nguyễn Minh) như sau :
 
-[replay.py](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6c56966f-afb2-4138-8770-4ad075b5c004/replay.py)
+[replay.py](https://github.com/konoha279/Flare-on-8/blob/main/other/replay.py)
 
-[ingre2.txt]()
+[ingre2.txt](https://github.com/konoha279/Flare-on-8/blob/main/other/ingre2.txt)
 
 Theo luồng tin nhắn trong wireshark thì tiếp theo là đến if với "you enter the dungeon" (có thể debug để chắc chắn điều này). Tại đoạn này sẽ load table như ở phía trên kia để làm điều gì đó
 
@@ -307,7 +307,7 @@ Theo luồng tin nhắn trong wireshark thì tiếp theo là đến if với "yo
 
 Dump table đó ra thì được:
 
-[dump2.json](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/afb32d1d-4b77-4b78-bd15-0b94209e257e/dump2.json)
+[dump2.json](https://github.com/konoha279/Flare-on-8/blob/main/other/dump2.json)
 
 Sau đoạn đó sẽ đến đoạn if với "It stares at you imposingly."
 
@@ -325,7 +325,7 @@ Trong hàm đó sẽ có một table string nữa `wizardcult_tables_Spells`
 
 Dump ra được: 
 
-[dump3.json](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9869948f-28b9-4da8-aeed-58e3e650fb8c/dump3.json)
+[dump3.json](https://github.com/konoha279/Flare-on-8/blob/main/other/dump3.json)
 
 Bây giờ sẽ dùng "Moonbeam" để tìm trong dump2.json và dump3.json
 
@@ -385,7 +385,7 @@ hàm này sẽ đọc toàn bộ byte của file `cool_wizard_meme.png`, sau đ�
 
 Kết hợp với dump3.json lấy được file `cool_wizard_meme.png` đã bị mã hóa
 
-[cool_wizard_meme.png.encrypted](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/160175cf-0cbf-41ec-8f7b-17c43a0c4d9c/cool_wizard_meme.png.encrypted)
+[cool_wizard_meme.png.encrypted](https://github.com/konoha279/Flare-on-8/blob/main/other/cool_wizard_meme.png.encrypted)
 
 Lúc này tôi sẽ tạo một binary fake của file để debug và đặt các breakpoint ở các instruction để lấy log
 
