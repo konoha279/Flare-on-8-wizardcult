@@ -3,33 +3,33 @@
 
 Tại `tcp.stream eq 1` sẽ thấy được client cho tải xuống file `induct` vào `/mages_tower` từ địa chỉ `http/[wizardcult.flare-on.com](http://wizardcult.flare-on.com/)/induct`
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2fcf8630-fbab-46bc-ace8-09f7c61b2f59/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%201.png)
 
 `tcp.stream eq 2` nôm na là binary của file induct.
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/82b583b6-e848-42ff-8419-c60a77684e55/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%202.png)
 
 `tcp.stream eq 3` sẽ thực hiện lệnh chmod cho file `induct` đã tải xuống
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d5dee47d-439b-48f2-a617-abf47c1ee6bf/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%203.png)
 
 `tcp.stream eq 4` thực thi file đó
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4a11afda-a011-4940-86d3-ba2669593b67/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%204.png)
 
 `tcp.stream eq 5` giống như là cuộc hội thoại của một game RPG.
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ab611c00-9a13-4398-9554-602ff2721c45/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%205.png)
 
 `tcp.stream eq 6` i don't known it.
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c2a337a3-eda7-45ec-9012-2348bf0d9d08/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%206.png)
 
 # Phân tích file
 
 File sẽ được phần tích gồm 2 giai đoạn, giai đoạn 1 là từ đầu đến khi giết xong Goblin
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b30b1dee-9e24-42f0-af04-a67e4f2f7d62/Untitled.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%207.png)
 
 Đoạn 2 thì còn lại.
 
