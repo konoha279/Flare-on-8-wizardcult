@@ -35,10 +35,6 @@ File sẽ được phần tích gồm 2 giai đoạn, giai đoạn 1 là từ đ
 
 ## Giai đoạn 1:
 
-Sử dụng lumina trong ida pro để làm rõ tên hàm hơn.
-
-![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%207.png)
-
 Tại hàm `main_main` sử dụng chuỗi [`wizardcult.flare-on.com`](http://wizardcult.flare-on.com/) làm domain để kết nối, và những hàm github_com_lrstanley_girc cho biết rằng sẽ kết nối đến server `IRC` 
 
 ![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%208.png)
