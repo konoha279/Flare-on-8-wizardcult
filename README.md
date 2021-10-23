@@ -323,21 +323,15 @@ Dump ra được:
 
 [dump3.json](https://github.com/konoha279/Flare-on-8/blob/main/other/dump3.json)
 
-Bây giờ sẽ dùng "Moonbeam" để tìm trong dump2.json và dump3.json
-
-![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2034.png)
-
-thì thấy có xuất hiện ở dump3.json và có id là 193. 
-
-![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2035.png)
-
-Để đấy.
 
 Lúc này debug cho luồng chương trình chạy đến `wizardcult_potion_CommandPotion`
 
 ![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2036.png)
 
 và chạy đến dòng 42, sẽ thấy ở stack sẽ đưa tất cả tên file trong folder `/mages_tower` vào stack
+
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2037.png)
+
 
 theo dõi chương trình thì sẽ thầy hàm `wizardcult_vm__ptr_Cpu_Execute` , hàm này sẽ load vm và excute instruction bằng hàm `wizardcult_vm__ptr_Cpu_ExecuteInstruction` 
 
@@ -349,11 +343,21 @@ Kết hợp đống instruction từ file decrypt bằng degob và hàm `wizardc
 
 ![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2040.png)
 
-Lúc này kết hợp với dump3,json với những điều trên cùng với đoạn chat này.
+Tiếp tục debug cho chạy đến khi return hàm `wizardcult_potion_CommandPotion` và đến `wizardcult_comms_CastSpells`, nhưng chú ý tại biến `prog_size_16e` và `prog_size_16f` là địa chỉ trỏ tới các byte đã được XOR với 162 vừa rồi
+
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/a.png)
+
+debug vào bên trong hàm `wizardcult_comms_CastSpells` thì thấy tại dòng 47 nó sẽ dùng byte thứ 2*index của các byte được XOR trên để lấy chuỗi trong bảng `wizardcult_tables_Spells`
+
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/b.png)
+
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/c.png)
+
+Lúc này kết hợp với đoạn chat này. Thì ta biết được mỗi byte thứ 2*index sẽ được chuyển thành chuỗi và chuỗi này được lấy từ trong bảng được dump ra file dump3.json, sau đó sẽ tạo thành 1 dòng tin nhắn và gửi lên server.
 
 ![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2041.png)
 
-Thì tính toán ra được 2 tên file là `cool_wizard_meme.png` và `induct`. Lúc này tôi biết được trong folder `/mages_tower` có 2 file là `induct` và `cool_wizard_meme.png`
+Tôi chuyển đoạn tin nhắn đó sang các byte cần thiết và tính toán ra được 2 tên file là `cool_wizard_meme.png` và `induct`. Lúc này tôi biết được trong folder `/mages_tower` có 2 file là `induct` và `cool_wizard_meme.png`
 
 ![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%2042.png)
 
