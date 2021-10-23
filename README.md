@@ -659,7 +659,7 @@ print("DONE!")
 
 Chạy file tôi thu được hình có flag:
 
-![_cool_wizard_meme.png](https://github.com/konoha279/Flare-on-8/blob/main/image/_cool_wizard_meme.png)
+![_cool_wizard_meme.png](https://github.com/konoha279/Flare-on-8/blob/main/image/__cool_wizard_meme.png)
 
 Done bài 10
 
