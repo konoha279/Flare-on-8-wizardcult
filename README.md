@@ -3,7 +3,7 @@
 
 Tại `tcp.stream eq 1` sẽ thấy được client cho tải xuống file `induct` vào `/mages_tower` từ địa chỉ `http/[wizardcult.flare-on.com](http://wizardcult.flare-on.com/)/induct`
 
-![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled%20.png)
+![alt text](https://github.com/konoha279/Flare-on-8/blob/main/image/Untitled.png)
 
 `tcp.stream eq 2` nôm na là binary của file induct.
 
